@@ -6,3 +6,7 @@
 ### 3. git 2.5x 
 #### 项目实战
 ##### 部署开始
+
+<image src="https://github.com/zyy1939/org-zyy-first-jenkins-project/blob/master/src/main/webapp/image/backtrack.jpg" width="640px" hight="480px" />
+
+![黑客帝国](https://github.com/zyy1939/org-zyy-first-jenkins-project/blob/master/src/main/webapp/image/backtrack.jpg)
