@@ -1,7 +1,8 @@
-# org-zyy-first-jenkins-project
-首次使用Jenkins创建项目
-
-q
-p
-p
-测试git提交
+# ========项目简介===========
+    本项目用于搭建Jenkins自动化部署专用
+## 环境搭建
+### 1. jdk8.x环境
+### 2. maven 3.x
+### 3. git 2.5x 
+#### 项目实战
+##### 部署开始
